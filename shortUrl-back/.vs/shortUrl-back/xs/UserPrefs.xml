@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{9719C010-EEF4-4BC9-B9F5-CB89D185BBA3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="shortUrl-back/Controllers/UrlController.cs">
+    <Files>
+      <File FileName="shortUrl-back/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="shortUrl-back/Program.cs" Line="3" Column="70" />
+      <File FileName="shortUrl-back/appsettings.json" Line="10" Column="97" />
+      <File FileName="shortUrl-back/Models/Url.cs" Line="19" Column="1" />
+      <File FileName="shortUrl-back/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="shortUrl-back/GlobalImports.cs" Line="4" Column="40" />
+      <File FileName="shortUrl-back/Migrations/20220402111901_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="shortUrl-back/Migrations/UrlDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="shortUrl-back/Controllers/UrlController.cs" Line="91" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shortUrl-back" expanded="True">
+            <Node name="shortUrl-back" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataContext" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>shortUrl-tests/shortUrl-tests.csproj</String>
+  </DisabledProjects>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.shortUrl-back PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
